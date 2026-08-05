@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/mango/Desktop/dancing_Miku/build",
+  "command": "C:\\dev\\compilers\\w64devkit\\bin\\gcc.exe   -g -std=gnu2x -o CMakeFiles\\miku.dir\\dance.c.obj -c C:\\Users\\mango\\Desktop\\dancing_Miku\\dance.c",
+  "file": "C:/Users/mango/Desktop/dancing_Miku/dance.c",
+  "output": "CMakeFiles/miku.dir/dance.c.obj"
+}
+]
