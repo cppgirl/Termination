@@ -9,25 +9,38 @@ CMakeFiles/miku.dir/dance.c.obj: C:/Users/mango/Desktop/dancing_Miku/dance.c \
   C:/dev/compilers/w64devkit/include/corecrt.h \
   C:/dev/compilers/w64devkit/include/corecrt_startup.h \
   C:/dev/compilers/w64devkit/include/corecrt_stdio_config.h \
+  C:/dev/compilers/w64devkit/include/corecrt_wstdlib.h \
   C:/dev/compilers/w64devkit/include/crtdefs.h \
+  C:/dev/compilers/w64devkit/include/errno.h \
   C:/dev/compilers/w64devkit/include/getopt.h \
   C:/dev/compilers/w64devkit/include/io.h \
+  C:/dev/compilers/w64devkit/include/limits.h \
+  C:/dev/compilers/w64devkit/include/malloc.h \
   C:/dev/compilers/w64devkit/include/process.h \
   C:/dev/compilers/w64devkit/include/pthread_unistd.h \
   C:/dev/compilers/w64devkit/include/sdks/_mingw_ddk.h \
   C:/dev/compilers/w64devkit/include/sec_api/stdio_s.h \
+  C:/dev/compilers/w64devkit/include/sec_api/stdlib_s.h \
   C:/dev/compilers/w64devkit/include/sec_api/string_s.h \
   C:/dev/compilers/w64devkit/include/stdio.h \
+  C:/dev/compilers/w64devkit/include/stdlib.h \
   C:/dev/compilers/w64devkit/include/string.h \
   C:/dev/compilers/w64devkit/include/swprintf.inl \
   C:/dev/compilers/w64devkit/include/sys/types.h \
   C:/dev/compilers/w64devkit/include/unistd.h \
-  C:/dev/compilers/w64devkit/include/vadefs.h
+  C:/dev/compilers/w64devkit/include/vadefs.h \
+  C:/dev/compilers/w64devkit/lib/gcc/x86_64-w64-mingw32/15.2.0/include/limits.h \
+  C:/dev/compilers/w64devkit/lib/gcc/x86_64-w64-mingw32/15.2.0/include/mm_malloc.h \
+  C:/dev/compilers/w64devkit/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h
 
 
 C:/dev/compilers/w64devkit/include/swprintf.inl:
 
 C:/dev/compilers/w64devkit/include/corecrt_startup.h:
+
+C:/dev/compilers/w64devkit/include/stdlib.h:
+
+C:/dev/compilers/w64devkit/include/limits.h:
 
 C:/dev/compilers/w64devkit/include/_mingw_off_t.h:
 
@@ -45,9 +58,21 @@ C:/dev/compilers/w64devkit/include/corecrt.h:
 
 C:/dev/compilers/w64devkit/include/corecrt_stdio_config.h:
 
+C:/dev/compilers/w64devkit/include/corecrt_wstdlib.h:
+
 C:/dev/compilers/w64devkit/include/crtdefs.h:
 
+C:/dev/compilers/w64devkit/include/sec_api/string_s.h:
+
+C:/dev/compilers/w64devkit/include/errno.h:
+
+C:/dev/compilers/w64devkit/include/sec_api/stdlib_s.h:
+
 C:/dev/compilers/w64devkit/include/getopt.h:
+
+C:/dev/compilers/w64devkit/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h:
+
+C:/dev/compilers/w64devkit/include/malloc.h:
 
 C:/dev/compilers/w64devkit/include/io.h:
 
@@ -59,8 +84,6 @@ C:/dev/compilers/w64devkit/include/sdks/_mingw_ddk.h:
 
 C:/dev/compilers/w64devkit/include/sec_api/stdio_s.h:
 
-C:/dev/compilers/w64devkit/include/sec_api/string_s.h:
-
 C:/dev/compilers/w64devkit/include/string.h:
 
 C:/dev/compilers/w64devkit/include/sys/types.h:
@@ -68,3 +91,7 @@ C:/dev/compilers/w64devkit/include/sys/types.h:
 C:/dev/compilers/w64devkit/include/unistd.h:
 
 C:/dev/compilers/w64devkit/include/vadefs.h:
+
+C:/dev/compilers/w64devkit/lib/gcc/x86_64-w64-mingw32/15.2.0/include/limits.h:
+
+C:/dev/compilers/w64devkit/lib/gcc/x86_64-w64-mingw32/15.2.0/include/mm_malloc.h:

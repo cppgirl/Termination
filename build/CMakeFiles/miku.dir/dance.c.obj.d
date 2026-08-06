@@ -20,4 +20,13 @@ CMakeFiles/miku.dir/dance.c.obj: \
  C:/dev/compilers/w64devkit/include/corecrt_startup.h \
  C:/dev/compilers/w64devkit/include/sys/types.h \
  C:/dev/compilers/w64devkit/include/getopt.h \
- C:/dev/compilers/w64devkit/include/pthread_unistd.h
+ C:/dev/compilers/w64devkit/include/pthread_unistd.h \
+ C:/dev/compilers/w64devkit/include/malloc.h \
+ C:/dev/compilers/w64devkit/lib/gcc/x86_64-w64-mingw32/15.2.0/include/mm_malloc.h \
+ C:/dev/compilers/w64devkit/include/stdlib.h \
+ C:/dev/compilers/w64devkit/include/corecrt_wstdlib.h \
+ C:/dev/compilers/w64devkit/lib/gcc/x86_64-w64-mingw32/15.2.0/include/limits.h \
+ C:/dev/compilers/w64devkit/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h \
+ C:/dev/compilers/w64devkit/include/limits.h \
+ C:/dev/compilers/w64devkit/include/sec_api/stdlib_s.h \
+ C:/dev/compilers/w64devkit/include/errno.h
